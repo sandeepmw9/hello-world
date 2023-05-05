@@ -9,8 +9,8 @@
     <br>
     <br>
     
-    <label for="mobile"><b>Enter mobile</b></label>
-    <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
+    <label for="contact"><b>Enter contact</b></label>
+    <input type="text" placeholder="Enter contact number" name="contact" id="contact" required>
     <br>
     <br>
 
